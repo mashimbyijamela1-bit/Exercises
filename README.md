@@ -14,7 +14,7 @@ The exercises included in this repository demonstrates:
 - Joins
 - Analytical thinking using SQL
 
-###Topics Covered
+### Topics Covered
 
 The repository includes exercises covering:
 - SELECT Statements
